@@ -28,8 +28,6 @@ out
 .tanstack
 data/codemirror-merge/
 
-.env
-.env.production
 .env.codesign
 .env.cmux
 
@@ -74,3 +72,4 @@ apps/www/scripts/pr-review/evals/results/
 .local_version
 .envrc
 *.tsbuildinfo
+config.bat
